@@ -10,7 +10,7 @@ This project focuses on detecting epilepsy using EEG signals with Machine Learni
 - DL model for classification
 - Achieved AUC up to 0.94
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python, NumPy, Pandas
 - Scikit-learn
 - TensorFlow / Keras
